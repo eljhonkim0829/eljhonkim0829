@@ -1,4 +1,4 @@
-<img width="1036" height="369" alt="image" src="https://github.com/user-attachments/assets/7763a212-89a0-4894-9794-c018a0f3f90a" />## Hi there 👋
+
 
 <!--
 **eljhonkim0829/eljhonkim0829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
