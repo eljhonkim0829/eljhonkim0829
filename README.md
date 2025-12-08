@@ -14,7 +14,7 @@ Hello! My name is Eljhon S. Kim, 2nd Year, College of Information Technology, wi
 
 ## 📜 Certification
 
-[(Certificate Link)](https://courses.cognitiveclass.ai/certificates/d91c7467e18e49c89203644ee2ebc041)
+[(SQL and Relational Databases 101)](https://courses.cognitiveclass.ai/certificates/d91c7467e18e49c89203644ee2ebc041)
 
 ---
 
